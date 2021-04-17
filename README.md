@@ -1,5 +1,5 @@
 # EmuFlight-related-FlowCharts
-Flow charts that describe EmuFlight
+Flow charts that describe EmuFlight 1.0.0 and beyond.
 
 Flow charts are created using draw.io unless a better option can be found.
 
